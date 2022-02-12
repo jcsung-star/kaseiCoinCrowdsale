@@ -1,4 +1,5 @@
-![Photo](images/KaseiCoinCrowdsale.PNG)
+![Photo](images/kaseiCoinCrowdsale.PNG)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1200&height=200&section=header&text=KaseiCoin%20Crowdsale%20Funding%20&fontSize=30&fontColor=black)
 
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
